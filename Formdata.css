@@ -1,0 +1,23 @@
+h1{
+    font-size: 44px;
+    font-style: italic;
+    font-weight: 500;
+    color: darkcyan;
+}
+
+p{
+    font-size: 24px;
+    font-weight: 300;
+    color: pink;
+}
+
+#map {
+    color: orange;
+}
+
+#map1 {
+    color: red;
+}
+.type {
+    color: green;
+}
